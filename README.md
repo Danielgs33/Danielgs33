@@ -48,7 +48,3 @@ Sou um profissional apaixonado por tecnologia, graduado em Análise e Desenvolvi
 <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-DO-GITHUB\&layout=compact\&langs\_count=7\&theme=dracula](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSEU-USUARIO-DO-GITHUB%26layout%3Dcompact%26langs_count%3D7%26theme%3Ddracula)"/\>
 </p\>
 
-
-3.  Marque a opção para criar um `README.md`.
-4.  Cole o texto copiado no arquivo `README.md` e **substitua os campos** `SEU-EMAIL-AQUI`, `SEU-LINKEDIN-AQUI` e `SEU-USUARIO-DO-GITHUB` com suas informações.
-5.  Salve o arquivo e seu perfil estará pronto\!
