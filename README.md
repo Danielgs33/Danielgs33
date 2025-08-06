@@ -1,37 +1,54 @@
-## Olá, seja bem-vindo(a) ao meu perfil no GitHub\! 👋
 
-\<p align="center"\>
-\<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc5eW1jY3hpZGl6cTB6dmdreWd2MWJ3bW14a3AybWNoZ3RyYjJqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif](https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc5eW1jY3hpZGl6cTB6dmdreWd2MWJ3bW14a3AybWNoZ3RyYjJqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)" width="200"/\>
-\</p\>
 
-Sou um entusiasta da tecnologia, apaixonado por encontrar soluções inovadoras para os desafios do dia a dia. Minha jornada no universo da programação começou há 5 anos de forma autônoma, e desde então, venho aprimorando minhas habilidades e conhecimentos.
+### Olá, seja bem-vindo(a)\! Este é o meu espaço no GitHub 👋
 
-Recentemente, em 2025.1, concluí minha graduação em **Análise e Desenvolvimento de Sistemas** pela UNINASSAU, uma etapa que solidificou minha base teórica e me preparou para os desafios do mercado. Além disso, possuo um curso de **Desenvolvedor de Dispositivos Móveis**, que expandiu minhas competências para o desenvolvimento de aplicações mobile.
+<p align="center"\>
+<a href="[https://git.io/typing-svg](https://git.io/typing-svg)"\><img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=30\&pause=1000\&color=009F29\&center=true\&width=435\&lines=Analista+e+Desenvolvedor+de+Sistemas;Entusiasta+de+Tecnologia;Desenvolvedor+Mobile+e+Back-end](https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D30%26pause%3D1000%26color%3D009F29%26center%3Dtrue%26width%3D435%26lines%3DAnalista%2Be%2BDesenvolvedor%2Bde%2BSistemas%3BEntusiasta%2Bde%2BTecnologia%3BDesenvolvedor%2BMobile%2Be%2BBack-end)" alt="Typing SVG" \><a\>
+<p\>
 
-Atualmente, dedico meus estudos ao aprofundamento em **Java**, **JavaScript para back-end** e **C\#**, buscando sempre me manter atualizado com as tecnologias mais recentes.
+<p align="center"\>
+Sou um profissional apaixonado por tecnologia, graduado em Análise e Desenvolvimento de Sistemas. Minha jornada começou há 5 anos de forma autônoma e, desde então, venho me dedicando a aprender e a criar soluções que otimizam processos e resolvem problemas reais. Atualmente, aplico meus conhecimentos no setor público e continuo a expandir minhas habilidades em desenvolvimento de software.
+<p\>
 
-Paralelamente à minha jornada acadêmica e de estudos, atuo como **Auxiliar Administrativo no Centro Logístico do Ministério Público de Pernambuco (MPPE)**. Nesta função, tenho a oportunidade de aplicar meus conhecimentos em tecnologia para otimizar processos, desenvolvendo sistemas com **Google AppScript** que facilitam e agilizam as rotinas de trabalho.
+-----
 
-### 🚀 Minha Trajetória
+### Sobre Mim
 
-  * **2020:** Início da jornada autônoma no mundo da tecnologia.
-  * **2023:** Ingresso na graduação em Análise e Desenvolvimento de Sistemas na UNINASSAU.
-  * **2025:** Conclusão da graduação e intensificação dos estudos em desenvolvimento mobile e back-end.
-  * **Atualmente:** Auxiliar Administrativo no MPPE, aplicando tecnologia para soluções em logística.
+  - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela UNINASSAU (2025.1).
+  - 📱 Possuo formação como **Desenvolvedor de Dispositivos Móveis**.
+  - 💻 Atualmente, foco meus estudos em **Java**, **JavaScript (Back-end)** e **C\#**.
+  - 🛠️ Tenho experiência prática no desenvolvimento de sistemas com **Google AppScript** para automação de processos.
+  - 🏢 Trabalho como **Auxiliar Administrativo** no Centro Logístico do **MPPE**, onde uso a tecnologia para agregar valor.
 
-### 💻 Tecnologias e Ferramentas
+-----
 
-\<p align="left"\>
-\<a href="[https://skillicons.dev](https://skillicons.dev)"\>
-\<img src="[https://skillicons.dev/icons?i=java,javascript,cs,idea,visualstudio,vscode,git,googlecloud](https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,javascript,cs,idea,visualstudio,vscode,git,googlecloud)" /\>
-\</a\>
-\</p\>
+### Conecte-se comigo
 
-### Onde me encontrar:
+<p align="center"\>
+<a href="mailto:danielgomes388@gmail.com"\><img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail"\><a\>
+<a href="[https://www.linkedin.com/in/daniel-gomes-music-800b4221b/](https://www.google.com/search?q=https://www.linkedin.com/in/daniel-gomes-music-800b4221b/)" target="\_blank"\><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite)" alt="LinkedIn"\><a\>
+<p\>
 
-\<p align="left"\>
-\<a href="mailto:danielgomes388@gmail.com" target="\_blank"\>\<img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail"/\>\</a\>
-\<a href="[https://www.linkedin.com/in/daniel-gomes-music-800b4221b/](https://www.google.com/search?q=https://www.linkedin.com/in/seu-linkedin-aqui)" target="\_blank"\>\<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite)" alt="LinkedIn"/\>\</a\>
-\</p\>
+-----
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e oportunidades de colaboração\!
+### Tecnologias
+
+<p align="center"\>
+<a href="[https://skillicons.dev](https://skillicons.dev)"\>
+<img src="[https://skillicons.dev/icons?i=java,javascript,cs,idea,visualstudio,vscode,git,googlecloud](https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,javascript,cs,idea,visualstudio,vscode,git,googlecloud)" /\>
+</a\>
+</p\>
+
+-----
+
+### GitHub Stats
+
+<p align="center"\>
+<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=Danielgs33\&show\_icons=true\&theme=dracula\&include\_all\_commits=true\&count\_private=true](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DDanielgs33%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue)"/\>
+<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-DO-GITHUB\&layout=compact\&langs\_count=7\&theme=dracula](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSEU-USUARIO-DO-GITHUB%26layout%3Dcompact%26langs_count%3D7%26theme%3Ddracula)"/\>
+</p\>
+
+
+3.  Marque a opção para criar um `README.md`.
+4.  Cole o texto copiado no arquivo `README.md` e **substitua os campos** `SEU-EMAIL-AQUI`, `SEU-LINKEDIN-AQUI` e `SEU-USUARIO-DO-GITHUB` com suas informações.
+5.  Salve o arquivo e seu perfil estará pronto\!
